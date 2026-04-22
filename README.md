@@ -65,11 +65,12 @@ Tools for finding guest post opportunities, analyzing competitor backlinks, and 
 Platforms that connect sources to journalists, often producing contributor bylines or quote placements rather than traditional guest posts. Useful adjacent tactic.
 
 - [Featured](https://featured.com) - Expert-sourcing platform (formerly Terkel) connecting subject matter experts with publishers.
+- [HARO (Help A Reporter Out)](https://www.helpareporter.com) - The original reporter-source matching service, still the highest-volume daily press query newsletter.
 - [JournoRequests](https://www.journorequests.com) - UK-focused platform aggregating journalist source requests.
 - [MentionMatch](https://mentionmatch.com) - Connects B2B writers with expert sources (formerly Help a B2B Writer).
 - [Qwoted](https://qwoted.com) - Source and journalist matching platform with a well-curated pool of press queries.
 - [SourceBottle](https://www.sourcebottle.com) - Australian-founded platform connecting sources with journalists and bloggers globally.
-- [Source of Sources](https://www.sourceofsources.com) - Peter Shankman's daily media query newsletter, successor to the original HARO.
+- [Source of Sources](https://www.sourceofsources.com) - Peter Shankman's media query newsletter.
 
 ## Guides and Tutorials
 
